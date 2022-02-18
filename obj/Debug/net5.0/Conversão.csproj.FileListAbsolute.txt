@@ -1,0 +1,16 @@
+C:\Users\debora.franco\Desktop\LetsCode\Conversão\bin\Debug\net5.0\Conversão.exe
+C:\Users\debora.franco\Desktop\LetsCode\Conversão\bin\Debug\net5.0\Conversão.deps.json
+C:\Users\debora.franco\Desktop\LetsCode\Conversão\bin\Debug\net5.0\Conversão.runtimeconfig.json
+C:\Users\debora.franco\Desktop\LetsCode\Conversão\bin\Debug\net5.0\Conversão.runtimeconfig.dev.json
+C:\Users\debora.franco\Desktop\LetsCode\Conversão\bin\Debug\net5.0\Conversão.dll
+C:\Users\debora.franco\Desktop\LetsCode\Conversão\bin\Debug\net5.0\ref\Conversão.dll
+C:\Users\debora.franco\Desktop\LetsCode\Conversão\bin\Debug\net5.0\Conversão.pdb
+C:\Users\debora.franco\Desktop\LetsCode\Conversão\obj\Debug\net5.0\Conversão.csproj.AssemblyReference.cache
+C:\Users\debora.franco\Desktop\LetsCode\Conversão\obj\Debug\net5.0\Conversão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\debora.franco\Desktop\LetsCode\Conversão\obj\Debug\net5.0\Conversão.AssemblyInfoInputs.cache
+C:\Users\debora.franco\Desktop\LetsCode\Conversão\obj\Debug\net5.0\Conversão.AssemblyInfo.cs
+C:\Users\debora.franco\Desktop\LetsCode\Conversão\obj\Debug\net5.0\Conversão.csproj.CoreCompileInputs.cache
+C:\Users\debora.franco\Desktop\LetsCode\Conversão\obj\Debug\net5.0\Conversão.dll
+C:\Users\debora.franco\Desktop\LetsCode\Conversão\obj\Debug\net5.0\ref\Conversão.dll
+C:\Users\debora.franco\Desktop\LetsCode\Conversão\obj\Debug\net5.0\Conversão.pdb
+C:\Users\debora.franco\Desktop\LetsCode\Conversão\obj\Debug\net5.0\Conversão.genruntimeconfig.cache
